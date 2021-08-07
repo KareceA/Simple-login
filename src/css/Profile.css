@@ -1,0 +1,14 @@
+.profile {
+    align-items: center;
+}
+
+.image {
+    border-radius: 50%;
+    height: 150px;
+    width: 160px;
+    margin-bottom: 15px;
+}
+
+#name {
+    color: white;
+}

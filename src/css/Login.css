@@ -1,0 +1,48 @@
+.username {
+    margin: 20px;
+}
+
+.uname {
+    padding: 10px;
+    background: transparent;
+}
+
+.uname {
+    padding: 10px;
+    background-color: #0b0f47;
+    border: 1px solid black;
+    opacity: 0.6;
+    margin-bottom: 10px;
+}
+
+
+/* .psw {
+    padding: 10px;
+    background-color: transparent;
+    margin-bottom: 20px;
+} */
+
+.psw {
+    padding: 10px;
+    background-color: #0b0f47;
+    border: 1px solid black;
+    opacity: 0.6;
+    margin-bottom: 20px;
+}
+
+#user-icon {
+    color: red;
+}
+
+#psw-icon {
+    color: red;
+}
+
+#login-button {
+    width: 279px;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1; 
+  }
